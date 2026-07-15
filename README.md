@@ -1,6 +1,6 @@
 <p>
    <a href="https://www.pixelstrap.com/item/cuba-tailwind-bootstrap-react-angular-vue-nuxt-next-js-net-laravel-admin-dashboard-template" target="_blank">
-      <img src="https://admin.pixelstrap.com/free/cuba/image/logo.png" alt="Cuba-image"  width="250px">
+      <img src="https://admin.pixelstrap.com/free/cuba/img/logo.png" alt="Cuba-image"  width="250px">
    </a>
 </p>
 
@@ -12,7 +12,7 @@
 <p>The Most Powerful & Feature-Rich Free Bootstrap 5 HTML Admin Dashboard Template for Developers.</p>
 <p>
    <a href="https://www.pixelstrap.com/item/cuba-tailwind-bootstrap-react-angular-vue-nuxt-next-js-net-laravel-admin-dashboard-template" target="_blank">
-      <img src="https://admin.pixelstrap.com/free/cuba/image/free_preview.png" alt="Cuba-image">
+      <img src="https://admin.pixelstrap.com/free/cuba/img/free_preview.png" alt="Cuba-image">
    </a>
 </p>
 
@@ -143,7 +143,7 @@ Whether you're developing a **CRM**, **SaaS platform**, **analytics dashboard**,
 
 <p align="center">
    <a href="https://www.pixelstrap.com/" target="_blank">
-      <img src="https://admin.pixelstrap.com/free/cuba/image/preview.jpg" alt="Cuba-image">
+      <img src="https://admin.pixelstrap.com/free/cuba/img/preview.jpg" alt="Cuba-image">
    </a>
 </p>
 
