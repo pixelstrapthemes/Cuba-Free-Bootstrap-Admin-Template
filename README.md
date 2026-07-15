@@ -1,6 +1,6 @@
 <p>
    <a href="https://www.pixelstrap.com/item/cuba-tailwind-bootstrap-react-angular-vue-nuxt-next-js-net-laravel-admin-dashboard-template" target="_blank">
-      <img src="https://admin.pixelstrap.com/free/cuba/img/logo.png" alt="Cuba-image"  width="250px">
+      <img src="https://admin.pixelstrap.com/free/cuba/img/logo_1.png" alt="Cuba-image"  width="250px">
    </a>
 </p>
 
